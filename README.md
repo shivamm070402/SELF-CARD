@@ -35,10 +35,10 @@ A clean and responsive **Profile Card UI** built with only **HTML** and **CSS**,
 ## 📁 Project Structure
 
 ## SELF-CARD/
-# │
-# ├── index.html # Main HTML file
-# ├── style.css # CSS styling file
-# └── shivam.jpg # Profile image (add your image or update path)
+#### │
+#### ├── index.html # Main HTML file
+#### ├── style.css # CSS styling file
+#### └── shivam.jpg # Profile image (add your image or update path)
 
 
 ---
