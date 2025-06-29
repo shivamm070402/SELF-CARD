@@ -10,12 +10,6 @@ A clean and responsive **Profile Card UI** built with only **HTML** and **CSS**,
 
 ---
 
-## 📸 Preview
-
-![Profile Card Screenshot](https://github.com/shivamm070402/SELF-CARD/assets/your-screenshot-preview.png)
-<!-- Replace with actual image URL if uploaded -->
-
----
 
 ## ✨ Features
 
@@ -40,11 +34,11 @@ A clean and responsive **Profile Card UI** built with only **HTML** and **CSS**,
 
 ## 📁 Project Structure
 
-SELF-CARD/
-│
-├── index.html # Main HTML file
-├── style.css # CSS styling file
-└── shivam.jpg # Profile image (add your image or update path)
+## SELF-CARD/
+# │
+# ├── index.html # Main HTML file
+# ├── style.css # CSS styling file
+# └── shivam.jpg # Profile image (add your image or update path)
 
 
 ---
